@@ -1,6 +1,6 @@
 body{
     font-family: 'Quicksand', sans-serif;
-    background-image: url(/images/pidgeon-background.jpg);
+    background-image: url(images/pidgeon-background.jpg);
     height: 500px;
     background-position: center;
     background-repeat: no-repeat, repeat;
