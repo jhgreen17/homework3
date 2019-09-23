@@ -64,7 +64,7 @@ th.colhead:last-child {
     border-top-right-radius: 10px;
 
 }
-th.rowhead:first-child {
+th.rowhead:last-child {
     border-bottom-left-radius: 10px;
 }
 th.rowhead:last-child {
